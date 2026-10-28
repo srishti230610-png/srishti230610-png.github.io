@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html>
+<style>
+ th, td {
+  border:2px solid black; border-collapse: collapse;
+}
+</style>
+<body>
+<link rel="stylesheet" href="abc.css">
+<h2>The ShopEloria</h2>
+<table style="width:50%">
+
+  <tr>
+    <th>Products</th>
+    <th>Brand</th>
+    <th>Owner</th>
+  </tr>
+  <tr>
+    <td>Serum</td>
+    <td>ShopEloria</td>
+    <td>Srishti</td>
+  </tr>
+  <tr>
+    <td>cleanser</td>
+    <td>ShopEloria</td>
+    <td>Srishti</td>
+  </tr>
+    <tr>
+     <td>Sunscreen</td>
+        <td>Shopeloria</td>
+        <td>Srishti</td>
+    </tr>
+</table>
+
+</body>
+</html>
+
+<ol>
+  <li>Makeup Products</li>
+  <li>Skincare Products</li>
+</ol>
+
+<dl>
+  <dt>ShopEloria</dt>
+  <dd>- Serum , Cleanser , Toner </dd>
+  <dt>Makeup Essentials</dt>
+  <dd>- Eye liner , Mascara ,concealer , Lip gloss etc.</dd>
+</dl>
